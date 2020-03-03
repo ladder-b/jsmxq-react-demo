@@ -14,3 +14,10 @@ Message flow is like this.
 4. Validator validates message and posts messages and specifies a subject based on processed message.
 5. Message from validator is received by App component.
 6. App component updates its state causing, input filed to update.
+
+Installation:
+git clone https://github.com/ladder-b/jsmxq-react-demo.git
+npm install
+npm run start
+
+Not point your browser to localhot:3000
